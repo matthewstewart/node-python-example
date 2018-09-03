@@ -1,0 +1,17 @@
+{
+  "name": "node-python-example",
+  "version": "0.0.1",
+  "description": "An example of running a python script as part of a node gulp build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp"
+  },
+  "author": "Matthew Stewart",
+  "license": "WTFPL",
+  "devDependencies": {
+    "colors": "^1.3.2",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {}
+}
